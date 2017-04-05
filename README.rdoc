@@ -1,27 +1,8 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the finance tracker app from the Complete Ruby on Rails Developer course on Udemy.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This app allows creation and authentication of users, allows users to search and add stocks to, their portfolios.  Users can search friend and view their portfolios.  They can also find stocks by searching their symbols.
 
 
 Please feel free to use a different markup language if you do not plan to run
